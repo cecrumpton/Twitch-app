@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  background-color: #eee;
+}
+
+#heading {
+  font-size: 24px;
+}
+
+#freeCodeCamp {
+  color: #0d0;
+}
+
+#ESL_SC2 {
+  color: #00f;
+}
+
+#freeCodeCampBox {
+  background-color: #ddd;
+}
+
+#ESL_SC2Box {
+  background-color: #ddd;
+}
+
+.game, .info {
+  font-style: italic;
+  color: #777;
+}
